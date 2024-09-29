@@ -1,3 +1,3 @@
-# ROCKYOU.TXT
+# WORDLISTS
 
-**Download a WordList for BruteForce**
+**Download a WordLists for BruteForce**
